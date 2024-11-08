@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|d:\\github\\jogo-supimpa\\jogo supimpa\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMotor.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\PlayerMotor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMotor.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\PlayerMotor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMotor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:58:01.976Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
               "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\InputManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T01:48:13.047Z",
               "EditorCaption": ""

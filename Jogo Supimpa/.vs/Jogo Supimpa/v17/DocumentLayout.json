@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|d:\\github\\jogo-supimpa\\jogo supimpa\\assets\\scripts\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|d:\\github\\jogo-supimpa\\jogo supimpa\\assets\\scripts\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerLook.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\PlayerLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLook.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\PlayerLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:18:11.519Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMotor.cs",
               "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\PlayerMotor.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMotor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T01:58:01.976Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
               "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\InputManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T01:48:13.047Z",
               "EditorCaption": ""

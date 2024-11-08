@@ -122,6 +122,62 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!20 &328321555 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 8776718173384028001, guid: 60abfd2b6498dde4990650fd2ee3bbd2, type: 3}
+  m_PrefabInstance: {fileID: 2572173004932747271}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1432696537 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6053485384817490293, guid: 60abfd2b6498dde4990650fd2ee3bbd2, type: 3}
+  m_PrefabInstance: {fileID: 2572173004932747271}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1432696538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1432696537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19d248ab44b5a640b823a7d0016401f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  gravity: -9.8
+  jumpHeight: 1.5
+  crouchTimer: 0
+  lerpCrouch: 0
+  crouching: 0
+  sprinting: 0
+--- !u!114 &1432696539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1432696537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfde4f6af8ee8374885f8c3daca51bea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1432696544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1432696537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d9d2f3677ca27e45ab2cfd92aceef70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cam: {fileID: 328321555}
+  xSensitivity: 30
+  ySensitivity: 30
 --- !u!1001 &2572173004932747271
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -177,7 +233,16 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6053485384817490293, guid: 60abfd2b6498dde4990650fd2ee3bbd2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1432696539}
+    - targetCorrespondingSourceObject: {fileID: 6053485384817490293, guid: 60abfd2b6498dde4990650fd2ee3bbd2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1432696538}
+    - targetCorrespondingSourceObject: {fileID: 6053485384817490293, guid: 60abfd2b6498dde4990650fd2ee3bbd2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1432696544}
   m_SourcePrefab: {fileID: 100100000, guid: 60abfd2b6498dde4990650fd2ee3bbd2, type: 3}
 --- !u!1001 &2695611649177347854
 PrefabInstance:
