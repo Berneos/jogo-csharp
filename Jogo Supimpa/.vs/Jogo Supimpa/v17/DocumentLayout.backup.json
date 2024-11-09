@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|d:\\github\\jogo-supimpa\\jogo supimpa\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|d:\\github\\jogo-supimpa\\jogo supimpa\\assets\\scripts\\guard\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guard\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFA65908-6753-6584-0EA5-F1F902FC4295}|Assembly-CSharp-Editor.csproj|d:\\github\\jogo-supimpa\\jogo supimpa\\assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFA65908-6753-6584-0EA5-F1F902FC4295}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +42,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Guard\\Guard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guard\\Guard.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Guard\\Guard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guard\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T01:42:12.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventOnlyInteractable.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\EventOnlyInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventOnlyInteractable.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\EventOnlyInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventOnlyInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:05:22.298Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,14 +77,14 @@
               "RelativeDocumentMoniker": "Assets\\Editor\\InteractableEditor.cs",
               "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Editor\\InteractableEditor.cs",
               "RelativeToolTip": "Assets\\Editor\\InteractableEditor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T23:32:59.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InteractionEvent.cs",
               "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\InteractionEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionEvent.cs",
@@ -63,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PlayerInteract.cs",
               "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteract.cs",
@@ -75,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PlayerUI.cs",
               "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\PlayerUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUI.cs",
@@ -87,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Porta.cs",
               "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Interactables\\Porta.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\Porta.cs",
@@ -99,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Interactable.cs",
               "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
@@ -107,8 +140,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T19:11:37.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T19:11:37.112Z"
             }
           ]
         }
