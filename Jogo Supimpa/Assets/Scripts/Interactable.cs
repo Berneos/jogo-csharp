@@ -4,13 +4,18 @@ using UnityEngine;
 
 public abstract class Interactable : MonoBehaviour
 {
-    //Message displayed to player when looking at an interactable.
+    //Add or use an InteractionEvent component to this gameobject
+    public bool useEvents;
+    [SerializeField]
     public string promptMessage;
 
     //This function will be called from our player
     public void BaseInteract()
     {
-
+        if (useEvents)
+        
+            GetComponent<InteractionEvent>().onInteract.Invoke();
+        
         Interact();
 
     }
@@ -19,6 +24,6 @@ public abstract class Interactable : MonoBehaviour
     
         //We wont have any code written in this function
         //This is a template function to be overriden by our subclasses
-    
+        
     }
 }
