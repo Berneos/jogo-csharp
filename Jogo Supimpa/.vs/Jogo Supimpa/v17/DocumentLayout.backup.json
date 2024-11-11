@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\daniel\\documents\\github\\jogo-supimpa\\jogo-supimpa\\jogo supimpa\\assets\\scripts\\sea\\watermaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\sea\\watermaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,12 +18,33 @@
     {
       "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\player\\projectilegun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\projectilegun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|d:\\github\\jogo-supimpa\\jogo supimpa\\assets\\scripts\\player\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA65908-6753-6584-0EA5-F1F902FC4295}|Assembly-CSharp-Editor.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA65908-6753-6584-0EA5-F1F902FC4295}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\player\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\gameui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,6 +59,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\interactables\\porta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\porta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|D:\\github\\jogo-supimpa\\Jogo Supimpa\\assets\\scripts\\guard\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAEA6B-B2DD-CD7B-B97E-16E7F9A86AEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guard\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -51,6 +97,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "waterManeger.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\sea\\waterManeger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\sea\\waterManeger.cs",
@@ -76,6 +123,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+=======
+              "Title": "ProjectileGun.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\ProjectileGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\ProjectileGun.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\ProjectileGun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\ProjectileGun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:45:15.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMotor.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\PlayerMotor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMotor.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\PlayerMotor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMotor.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:43:53.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerLook.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\PlayerLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerLook.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\PlayerLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:22:22.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\GameUI\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameUI\\GameUI.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\GameUI\\GameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameUI\\GameUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:05:16.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Guard\\Guard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guard\\Guard.cs",
+              "ToolTip": "D:\\github\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Guard\\Guard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guard\\Guard.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T01:42:12.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+>>>>>>> Stashed changes
               "Title": "EventOnlyInteractable.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\EventOnlyInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EventOnlyInteractable.cs",
@@ -93,13 +204,17 @@
               "RelativeDocumentMoniker": "Assets\\Editor\\InteractableEditor.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\Assets\\Editor\\InteractableEditor.cs",
               "RelativeToolTip": "Assets\\Editor\\InteractableEditor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T23:32:59.876Z"
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 10,
+>>>>>>> Stashed changes
               "Title": "InteractionEvent.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\InteractionEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionEvent.cs",
@@ -111,13 +226,17 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 8,
+>>>>>>> Stashed changes
               "Title": "PlayerInteract.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteract.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteract.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T21:11:52.153Z"
             },
@@ -147,13 +266,17 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 5,
+>>>>>>> Stashed changes
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\jogo-supimpa\\jogo-supimpa\\Jogo Supimpa\\Assets\\Scripts\\Interactable.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T19:11:37.112Z"
             }

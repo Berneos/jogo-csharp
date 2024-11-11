@@ -9,6 +9,12 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
+<<<<<<< Updated upstream
+=======
+	"last_search.66F56946" = ""
+	"OpenInspectorPreview.66F56946" = "0"
+	"currentGroup.66F56946" = "all"
+>>>>>>> Stashed changes
 }
 providers = {
 	asset = {
