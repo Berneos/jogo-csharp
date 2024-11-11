@@ -55,7 +55,7 @@
     <UnityVersion>2022.3.46f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="D:\vsc\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -63,35 +63,35 @@
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\LazyInitializer.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Input\Text2Yaml.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\NetMQPublisher.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\ScriptFinder.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Input\InputManagerMonitor.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Input\UnityInputManager.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\StatusWindow.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\AboutWindow.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\TinyJson\JsonParser.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Preferences\PreferenceStorageAccessor.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\MainThreadDispatcher.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Monitor.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\EditorCoroutines\EditorCoroutineUtility.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Assister.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Preferences\PreferenceEntryHolder.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Logger\UnitySink.cs" />
+    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Logger\Attributes.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\SetupManager.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Logger\MemorySink.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Preferences\PreferenceMonitor.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\TinyJson\JsonWriter.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Input\Binary2TextExec.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\ScriptFinder.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\EditorCoroutines\EditorWindowCoroutineExtension.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Logger\ELogger.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Input\InputManagerMonitor.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Input\UnityInputManager.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\UnityClassExtensions.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\StatusWindow.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\EditorCoroutines\EditorWaitForSeconds.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\NetMQInitializer.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\AboutWindow.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\TinyJson\JsonParser.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Preferences\PreferenceStorageAccessor.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\MainThreadDispatcher.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Logger\CommonTools.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Monitor.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\EditorCoroutines\EditorCoroutineUtility.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Assister.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Preferences\PreferenceEntryHolder.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\EditorCoroutines\EditorCoroutine.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\FeedbackWindow.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Logger\UnitySink.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Preferences\RegistryMonitor.cs" />
     <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Logger\DomainHashEnricher.cs" />
-    <Compile Include="Packages\com.merry-yellow.code-assist\Editor\Logger\Attributes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Packages\com.merry-yellow.code-assist\Editor\ExternalReferences\Meryel.UnityCodeAssist.NetMQ.xml" />
@@ -1021,24 +1021,24 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TestRunner">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{F19ABB50-E354-A1B5-FC3E-081B37F97184}</Project>
-      <Name>UnityEditor.UI</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{2865C5BB-BC45-ECBC-96E4-DCAAD9B56AF4}</Project>
-      <Name>UnityEngine.UI</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{2F44EC56-13FB-1563-3D32-175DF856EAA1}</Project>
-      <Name>UnityEngine.TestRunner</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{4E1BDB52-B00A-6916-58A3-CABE3F35FE7E}</Project>
-      <Name>UnityEditor.TestRunner</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
